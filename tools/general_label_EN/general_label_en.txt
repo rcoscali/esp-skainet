@@ -1,7 +1,3 @@
-turn on the light
-turn off the light
-lighting mode
-reading mode
-red mode
-blue mode
-yellow mode
+turn on the gate light
+open the gate
+turn off the gate light
